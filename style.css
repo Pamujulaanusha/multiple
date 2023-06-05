@@ -1,0 +1,21 @@
+img{
+    height:150px;
+    width:150px;
+    padding:0px;
+    border-radius:100%;
+}
+#images{
+    height:500px;
+    width:1500px;
+    border:5px pink ;
+    display:flex;
+    align-items:center;
+    justify-content:space-evenly;
+
+}
+html{
+
+    background-attachment: fixed;
+    background-image: url(https://mz3.com.br/wp-content/uploads/2018/04/stories-background.jpg);
+    background-size: 100%;
+}
